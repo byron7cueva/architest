@@ -1,0 +1,5 @@
+<archimate:Facility
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GOOGLE-CLOUD"
+    id="id-5f1c7c583b634f0c8c9503671a7959c3"
+    documentation="AQUI TENEMOS ELASTICSEARCH ESTA EN GKE - DEPLOY CON ARTEFACTOS K8&#xD;&#xA;CON SEGURIDAD&#xD;&#xA;MONITOREA EL APP FLUX, TODOS LOS DATOS LOS GUARDA AQUI.&#xD;&#xA;HTPPS:&#xD;&#xA;ELASTICKSEARCH COMO MOTOR DE BUSQUEDA. DB&#xD;&#xA;"/>

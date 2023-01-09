@@ -1,0 +1,9 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="preprod"
+    id="id-d5bd0eaded6a4a09b09779ac882fc979"
+    documentation="clusters de k8&#xD;&#xA;1 k8 de aplicaciones&#xD;&#xA;">
+  <properties
+      key="NOMBRE"
+      value="AMBIENTE PRE PRODUCCION"/>
+</archimate:Location>

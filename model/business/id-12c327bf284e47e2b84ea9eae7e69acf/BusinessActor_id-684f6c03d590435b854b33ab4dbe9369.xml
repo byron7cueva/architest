@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APPLICATION DEVELOPERS"
+    id="id-684f6c03d590435b854b33ab4dbe9369"
+    documentation="Desarrolladores de Aplicaciones que utilizan las apis para dar funcionalidad a su aplicacion web o mobile.&#xD;&#xA;Usan el portal de desarrollador para entender el funcionamiento del api, hacen uso del api previamente subscrito.">
+  <properties
+      key="NOMBRE"
+      value="APPLICATION DEVELOPERS"/>
+  <properties
+      key="ROL"
+      value="Subscriptor"/>
+</archimate:BusinessActor>

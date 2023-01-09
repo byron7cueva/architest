@@ -1,0 +1,12 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inventario de servicios"
+    id="id-ded74ad47be148fdad2e19b6fdc49ba9"
+    documentation="Artefacto que contiene el listado de servicios y microservicios separados por aplicacion y responsable.">
+  <properties
+      key="NOMBRE"
+      value="INVENTARIO DE SERVICIOS"/>
+  <properties
+      key="URL"
+      value="https://supermaxi-my.sharepoint.com/:x:/g/personal/mreinoso_favorita_com/EQUhYGrRHQxMucMh-zrTMwABHyW1WBOjJM48Qkf_you9vg?rtime=F4CZLZrj2kg"/>
+</archimate:Artifact>

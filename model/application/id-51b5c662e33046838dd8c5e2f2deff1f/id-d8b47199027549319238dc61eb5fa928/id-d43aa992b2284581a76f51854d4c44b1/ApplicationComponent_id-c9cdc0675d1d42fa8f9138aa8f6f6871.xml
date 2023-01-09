@@ -1,0 +1,11 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Proxy Reverso"
+    id="id-c9cdc0675d1d42fa8f9138aa8f6f6871">
+  <properties
+      key="NOMBRE"
+      value="Proxy Reverso"/>
+  <properties
+      key="IP"
+      value="PENDIENTE"/>
+</archimate:ApplicationComponent>

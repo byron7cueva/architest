@@ -1,0 +1,32 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Desarrollo Seguro"
+    id="id-dd84632be66445de86e4ecf1ca8adae1">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-500a5ba6379e42f09fd728d4a8daaa67">
+    <features
+        name="labelExpression"
+        value="&lt;&lt; ${property:NOMBRE}>>\n&#xD;&#xA;${documentation}\n&#xD;&#xA;URL: ${property:URL}&#xD;&#xA;&#xD;&#xA;"/>
+    <bounds
+        x="24"
+        y="72"
+        width="349"
+        height="193"/>
+    <archimateElement
+        xsi:type="archimate:Artifact"
+        href="Artifact_id-e59c37b0ea634465a048f5246ccb1ea9.xml#id-e59c37b0ea634465a048f5246ccb1ea9"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-82dce1cbae244040948bf5013ea5bbac"
+      textAlignment="1"
+      content="CICLO DEVOPS ACTUAL&#xD;&#xA;&#xD;&#xA;CICLO DE DESARROLLO DE APLICACIONES">
+    <bounds
+        x="444"
+        y="144"
+        width="325"
+        height="80"/>
+  </children>
+</archimate:ArchimateDiagramModel>

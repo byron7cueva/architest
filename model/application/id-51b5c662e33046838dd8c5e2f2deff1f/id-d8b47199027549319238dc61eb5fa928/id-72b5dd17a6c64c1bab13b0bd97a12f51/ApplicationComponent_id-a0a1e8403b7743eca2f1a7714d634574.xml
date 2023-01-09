@@ -1,0 +1,14 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HA Proxy2"
+    id="id-a0a1e8403b7743eca2f1a7714d634574">
+  <properties
+      key="NOMBRE"
+      value="ha proxy2"/>
+  <properties
+      key="IP"
+      value="10.100.19.125"/>
+  <properties
+      key="HA"
+      value="PASIVO"/>
+</archimate:ApplicationComponent>

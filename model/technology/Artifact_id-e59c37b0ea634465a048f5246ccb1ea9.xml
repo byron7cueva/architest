@@ -1,0 +1,12 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Desarrollo Seguro"
+    id="id-e59c37b0ea634465a048f5246ccb1ea9"
+    documentation="El Proyecto del Estándar de Verificación de Seguridad de Aplicaciones (ASVS) de OWASP proporciona una base para probar los controles técnicos de seguridad de las aplicaciones web y también proporciona a los desarrolladores una lista de requisitos para un desarrollo seguro.">
+  <properties
+      key="NOMBRE"
+      value="Desarrollo Seguro"/>
+  <properties
+      key="URL"
+      value="https://www.krugle.ec/pages/viewpage.action?spaceKey=CDN&amp;title=CDN+-+OWASP"/>
+</archimate:Artifact>

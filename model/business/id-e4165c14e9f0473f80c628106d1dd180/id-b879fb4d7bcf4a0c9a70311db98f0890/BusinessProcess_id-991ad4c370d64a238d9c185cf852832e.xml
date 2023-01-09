@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generar OpeApi del servicio"
+    id="id-991ad4c370d64a238d9c185cf852832e"
+    documentation="Generar el swagger de las apis a exponer."/>

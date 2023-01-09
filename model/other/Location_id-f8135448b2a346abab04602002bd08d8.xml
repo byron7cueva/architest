@@ -1,0 +1,5 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AMBIENTE PRODUCCION - PANAMÁ"
+    id="id-f8135448b2a346abab04602002bd08d8"
+    documentation="app customizadas no son iguales a las de ecuador&#xD;&#xA;infraestrcutura hibrida&#xD;&#xA;conenedores y jboss&#xD;&#xA;&#xD;&#xA;no existe keycloak&#xD;&#xA;segundo fator&#xD;&#xA;Apim Manager&#xD;&#xA;&#xD;&#xA;1 cluster k8 "/>

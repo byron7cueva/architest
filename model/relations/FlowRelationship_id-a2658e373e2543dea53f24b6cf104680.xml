@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PUBLISH API"
+    id="id-a2658e373e2543dea53f24b6cf104680">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6e728b85b4a746c5a0ad496adf7750ab.xml#id-6e728b85b4a746c5a0ad496adf7750ab"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-88c893f5f4b445f684ff0559fafc4446.xml#id-88c893f5f4b445f684ff0559fafc4446"/>
+</archimate:FlowRelationship>

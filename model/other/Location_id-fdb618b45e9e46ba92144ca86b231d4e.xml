@@ -1,0 +1,5 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INFRAESTRUCTURA "
+    id="id-fdb618b45e9e46ba92144ca86b231d4e"
+    documentation="ambientes de desarrollo y preproduccion se ejecutan sobre el mismo de ecuador.&#xD;&#xA;infraestrcutura hibrida&#xD;&#xA;conenedores y jboss&#xD;&#xA;"/>

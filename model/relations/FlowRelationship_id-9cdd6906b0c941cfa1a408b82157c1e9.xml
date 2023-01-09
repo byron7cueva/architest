@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SUBSCRIBE APP"
+    id="id-9cdd6906b0c941cfa1a408b82157c1e9">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-272e7d75372545e4b26af5459da6dba5.xml#id-272e7d75372545e4b26af5459da6dba5"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6e728b85b4a746c5a0ad496adf7750ab.xml#id-6e728b85b4a746c5a0ad496adf7750ab"/>
+</archimate:FlowRelationship>

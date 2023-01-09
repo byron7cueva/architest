@@ -1,0 +1,17 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-d6ec74ca31524bf1b6188d036c1697ac">
+  <properties
+      key="PROTOCOLO"
+      value="HTTPS"/>
+  <properties
+      key="URL"
+      value="https://aplpre.favorita.ec/sotWs/loginPortalService/getStatusCandidate"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-214839e0545347d4a24b7f27526792be.xml#id-214839e0545347d4a24b7f27526792be"/>
+  <target
+      xsi:type="archimate:TechnologyInterface"
+      href="TechnologyInterface_id-5ba2c0f45bb8480cb87a2656cbe78a6a.xml#id-5ba2c0f45bb8480cb87a2656cbe78a6a"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Configurar api en api manager"
+    id="id-cc40845ad51f46afa427785f9c9fb458"
+    documentation="Generar el swagger de las apis a exponer."/>

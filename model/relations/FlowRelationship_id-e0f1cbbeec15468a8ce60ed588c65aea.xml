@@ -1,0 +1,14 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-e0f1cbbeec15468a8ce60ed588c65aea">
+  <properties
+      key="PROTOCOLO"
+      value="HTTP"/>
+  <source
+      xsi:type="archimate:TechnologyInterface"
+      href="TechnologyInterface_id-5ba2c0f45bb8480cb87a2656cbe78a6a.xml#id-5ba2c0f45bb8480cb87a2656cbe78a6a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-31a5fbe9138f4f46818dd9417b3935ea.xml#id-31a5fbe9138f4f46818dd9417b3935ea"/>
+</archimate:FlowRelationship>

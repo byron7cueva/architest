@@ -1,0 +1,12 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="inventario aplicaciones"
+    id="id-a58da7a493094ac5a269dbdd2c75f21d"
+    documentation="Artefacto que contiene el listado de aplicaciones de Corporación Favorita con su responsable de negocio.">
+  <properties
+      key="NOMBRE"
+      value="INVENTARIO DE APLICACIONES"/>
+  <properties
+      key="URL"
+      value="Pendiente"/>
+</archimate:Artifact>

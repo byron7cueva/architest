@@ -1,0 +1,11 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-19edfbe53d094199a40658777874c711"
+    documentation="El desarrollador de API es responsable de expandir las funciones del negocio en forma de API, lo cual permite que los sistemas de soporte sean escalables. En este sentido, participa en la creación y documentación del API.">
+  <properties
+      key="NOMBRE"
+      value="API DEVELOPER"/>
+  <properties
+      key="ROL"
+      value="Creador"/>
+</archimate:BusinessActor>

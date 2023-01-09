@@ -1,0 +1,11 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VIP"
+    id="id-8398b0059db94252a29926b04466c20a">
+  <properties
+      key="NOMBRE"
+      value="V IP"/>
+  <properties
+      key="IP"
+      value="10.100.19.126"/>
+</archimate:TechnologyInterface>

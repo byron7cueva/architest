@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API SUBSCRIBER"
+    id="id-272e7d75372545e4b26af5459da6dba5"
+    documentation="El api Subscriber es el responsable de otorgar permisos de consumo a los diferentes apis por parte de las aplicaciones.&#xD;&#xA;Es quien otorga una cuota de consumo del api a determinada aplicación.&#xD;&#xA;">
+  <properties
+      key="NOMBRE"
+      value="API SUBSCRIBER"/>
+  <properties
+      key="ROL"
+      value="Editor"/>
+</archimate:BusinessActor>

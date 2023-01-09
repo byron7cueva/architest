@@ -1,0 +1,14 @@
+<archimate:Facility
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CDE"
+    id="id-10f0536fd6e0490bada061072b67a566">
+  <properties
+      key="NOMBRE"
+      value="CDE"/>
+  <properties
+      key="UBICACION"
+      value="AMAGUAÑA"/>
+  <properties
+      key="PAIS"
+      value="ECUADOR"/>
+</archimate:Facility>

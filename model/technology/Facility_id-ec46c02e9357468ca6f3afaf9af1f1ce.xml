@@ -1,0 +1,15 @@
+<archimate:Facility
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DATACENTER"
+    id="id-ec46c02e9357468ca6f3afaf9af1f1ce"
+    documentation="-aplicaciones core de negocios&#xD;&#xA;-aplicaciones importaciones&#xD;&#xA;-aplicaciones exportaciones&#xD;&#xA;-aplicaciones proveedoes&#xD;&#xA;-aplicaciones ofinicnas&#xD;&#xA;-aplicaciones bodegas&#xD;&#xA;-aplicaciones hhrr&#xD;&#xA;-aplicaciones facturas&#xD;&#xA;-aplicaciones maxlocales(locales-puntos de venta)&#xD;&#xA;">
+  <properties
+      key="NOMBRE"
+      value="DATAACENTER PRINCIPAL UIO"/>
+  <properties
+      key="UBICACION"
+      value="AMAGUAÑA"/>
+  <properties
+      key="PAIS"
+      value="ECUADOR"/>
+</archimate:Facility>

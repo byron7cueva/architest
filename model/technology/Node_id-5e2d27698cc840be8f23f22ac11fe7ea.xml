@@ -1,0 +1,14 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="servidor fisico03"
+    id="id-5e2d27698cc840be8f23f22ac11fe7ea">
+  <properties
+      key="NOMBRE"
+      value="SERVIDOR FISICO 03"/>
+  <properties
+      key="CORES"
+      value="8"/>
+  <properties
+      key="RAM"
+      value="16 RAM"/>
+</archimate:Node>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Configura subscripcion del api a una aplicación."
+    id="id-b7dee9300dc2442cab1f63565e7da1be"
+    documentation="Generar el swagger de las apis a exponer."/>

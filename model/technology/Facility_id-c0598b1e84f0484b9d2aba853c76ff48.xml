@@ -1,0 +1,14 @@
+<archimate:Facility
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Facility"
+    id="id-c0598b1e84f0484b9d2aba853c76ff48">
+  <properties
+      key="NOMBRE"
+      value="MEGAMAXI SCALA"/>
+  <properties
+      key="UBICACION"
+      value="CUMBAYA"/>
+  <properties
+      key="PAIS"
+      value="ECUADOR"/>
+</archimate:Facility>

@@ -1,0 +1,14 @@
+<archimate:Facility
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Facility (copy)"
+    id="id-5abbb88c4347499fbaeaf890007f6a0a">
+  <properties
+      key="NOMBRE"
+      value="MEGAMAXI SAN BORONDON"/>
+  <properties
+      key="UBICACION"
+      value="SAN BORONDON"/>
+  <properties
+      key="PAIS"
+      value="ECUADOR"/>
+</archimate:Facility>

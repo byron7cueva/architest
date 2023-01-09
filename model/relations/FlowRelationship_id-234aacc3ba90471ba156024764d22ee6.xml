@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RED PUNTO A PUNTO - MOVISTAR LEVEL 3 CANAL DE DATOS"
+    id="id-234aacc3ba90471ba156024764d22ee6">
+  <source
+      xsi:type="archimate:Facility"
+      href="Facility_id-5abbb88c4347499fbaeaf890007f6a0a.xml#id-5abbb88c4347499fbaeaf890007f6a0a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2593a90bc3844fa8a16a2794b8255bc9.xml#id-2593a90bc3844fa8a16a2794b8255bc9"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,14 @@
+<archimate:Facility
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Facility"
+    id="id-6a79963a40794b0590fe4e19c0c4dbb3">
+  <properties
+      key="NOMBRE"
+      value="DATACENTER - PANAMÁ"/>
+  <properties
+      key="UBICACION"
+      value="PANAMA"/>
+  <properties
+      key="PAIS"
+      value="PANAMA"/>
+</archimate:Facility>

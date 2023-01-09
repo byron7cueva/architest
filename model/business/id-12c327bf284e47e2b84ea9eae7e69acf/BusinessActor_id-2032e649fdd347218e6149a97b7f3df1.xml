@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ADMIN PLATFORM"
+    id="id-2032e649fdd347218e6149a97b7f3df1"
+    documentation="Usuario responsable de la administracion de la plataforma asi como crear usuarios en el sistema, asignarles roles, administrar bases de datos, seguridad, etc.">
+  <properties
+      key="NOMBRE"
+      value="API ADMIN"/>
+  <properties
+      key="ROL"
+      value="Admin"/>
+</archimate:BusinessActor>

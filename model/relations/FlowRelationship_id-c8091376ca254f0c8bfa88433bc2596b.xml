@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="https://www.cfavorita.ec/b2b/pages/index.jsf"
+    id="id-c8091376ca254f0c8bfa88433bc2596b">
+  <source
+      xsi:type="archimate:Location"
+      href="Location_id-c372478f1d4d444c9b8bdcfcc2cfa35e.xml#id-c372478f1d4d444c9b8bdcfcc2cfa35e"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2593a90bc3844fa8a16a2794b8255bc9.xml#id-2593a90bc3844fa8a16a2794b8255bc9"/>
+</archimate:FlowRelationship>
